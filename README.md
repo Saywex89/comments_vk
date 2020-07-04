@@ -1,1 +1,7 @@
-you can use this script to wind up a comment on Vkontakte
+<h1><i>Накрутка комментариев VK</i></h1>
+
+<p>для начала установите модули</p>
+
+<p>pip3 install vk</p>
+
+<p>Запустите скрипт,впишите токен,сообщение,пост id</p>
